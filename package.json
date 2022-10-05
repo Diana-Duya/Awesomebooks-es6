@@ -1,4 +1,25 @@
 {
+  "name": "awesomebooks-es6",
+  "version": "1.0.0",
+  "description": "![](https://img.shields.io/badge/Microverse-blueviolet)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Diana-Duya/Awesomebooks-es6.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Diana-Duya/Awesomebooks-es6/issues"
+  },
+  "homepage": "https://github.com/Diana-Duya/Awesomebooks-es6#readme",
+  "dependencies": {
+    "luxon": "^3.0.4"
+  },
   "devDependencies": {
     "hint": "^7.1.2",
     "stylelint": "^13.13.1",
